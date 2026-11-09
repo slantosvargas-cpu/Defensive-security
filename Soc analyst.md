@@ -9,6 +9,7 @@ Definition
 Security Monitoring and Analysis is the continuous process of observing, collecting, reviewing, and analyzing security events across systems, networks, applications, and devices to identify suspicious activities, potential threats, and security incidents.
 
 Purpose
+
 .To continuously monitor organizational IT environments.
 .To identify suspicious activities and unauthorized access.
 .To detect abnormal user and system behavior.
